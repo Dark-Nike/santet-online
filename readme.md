@@ -12,13 +12,11 @@ Peringatan: Untuk kerusakan yang ditimbulkan karena penggunaan dari alat ini buk
 
 #### Installation and Using santet-online
 ```bash
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/DARK-NIKE/santet-online
 cd santet-online
 python -m pip install -r requirements.txt
 python santet.py
 ```
 
 #### Join US
-*.[Facebook](https://mobile.facebook.com/groups/1704985559810669)  
-*.[Telegram](https://t.me/BHSec)
-*.[Telegram-Channel](https://t.me/bhs3c)
+*.[Facebook](https://www.facebook.com/100280701937240)
