@@ -12,7 +12,7 @@ Peringatan: Untuk kerusakan yang ditimbulkan karena penggunaan dari alat ini buk
 
 #### Installation and Using santet-online
 ```bash
-git clone https://github.com/DARK-NIKE/santet-online
+git clone https://github.com/Dark-Nike/santet-online
 cd santet-online
 python -m pip install -r requirements.txt
 python santet.py
